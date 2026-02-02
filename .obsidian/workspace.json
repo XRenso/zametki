@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "113c87f1a3dd002b",
+        "id": "d3f66fc45cf383d0",
         "type": "tabs",
         "children": [
           {
-            "id": "01c8c0cd09ba0f37",
+            "id": "836a5848e3b88b5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура ОС, цели и задачи..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Структура ОС, цели и задачи."
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01c8c0cd09ba0f37",
+  "active": "836a5848e3b88b5d",
   "lastOpenFiles": [
+    "Структура ОС, цели и задачи..md",
     "Операционные системы.md",
     "Подготовка к экзаменам.md",
-    "Структура ОС, цели и задачи..md",
     "0. Начало.md",
     "Untitled.base"
   ]
