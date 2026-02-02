@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Начало.md",
+                "file": "Структура ОС, цели и задачи..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Начало"
+              "title": "Структура ОС, цели и задачи."
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +197,10 @@
   },
   "active": "01c8c0cd09ba0f37",
   "lastOpenFiles": [
-    "Структура ОС, цели и задачи..md",
     "Операционные системы.md",
-    "0. Начало.md",
     "Подготовка к экзаменам.md",
+    "Структура ОС, цели и задачи..md",
+    "0. Начало.md",
     "Untitled.base"
   ]
 }
