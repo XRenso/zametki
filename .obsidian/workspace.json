@@ -11,10 +11,14 @@
             "id": "836a5848e3b88b5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Структура ОС, цели и задачи..md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Структура ОС, цели и задачи."
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68e8be18fb1033f9",
@@ -190,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836a5848e3b88b5d",
+  "active": "88669a48f74bc578",
   "lastOpenFiles": [
     "Структура ОС, цели и задачи..md",
     "Операционные системы.md",
