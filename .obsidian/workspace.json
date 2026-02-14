@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "487e439fb63c9821",
+        "id": "c68d7dc879434eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "e368058155f909ea",
+            "id": "82fa48a6a0a8fd06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e368058155f909ea",
+  "active": "82fa48a6a0a8fd06",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
