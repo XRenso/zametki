@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f66fc45cf383d0",
+        "id": "e109d41addd3c5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "836a5848e3b88b5d",
+            "id": "6b4762bc575a4b96",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Описать шаги загрузки ОС"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "68e8be18fb1033f9",
@@ -195,12 +194,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88669a48f74bc578",
+  "active": "6b4762bc575a4b96",
   "lastOpenFiles": [
+    "ВУЗ/ЭКЗАМЕНЫ/ОС/Операционные системы.md",
+    "ВУЗ/ЭКЗАМЕНЫ/Подготовка к экзаменам.md",
+    "0. Начало.md",
+    "conflict-files-obsidian-git.md",
+    "ВУЗ/ЭКЗАМЕНЫ/ОС/Структура ОС, цели и задачи..md",
+    "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
+    "ВУЗ/ЭКЗАМЕНЫ/ОС",
+    "ВУЗ/ЭКЗАМЕНЫ",
+    "ВУЗ",
+    "img/os_boot.png",
+    "img/mbr_partion_table.png",
+    "img/mbr.png",
+    "img/linux_kernel.png",
+    "img",
     "Структура ОС, цели и задачи..md",
     "Операционные системы.md",
     "Подготовка к экзаменам.md",
-    "0. Начало.md",
     "Untitled.base"
   ]
 }
