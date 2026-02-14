@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e109d41addd3c5c8",
+        "id": "487e439fb63c9821",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4762bc575a4b96",
+            "id": "e368058155f909ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -194,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b4762bc575a4b96",
+  "active": "e368058155f909ea",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
     "Текстовый документ.txt",
-    "conflict-files-obsidian-git.md",
     "ВУЗ/ЭКЗАМЕНЫ/ОС/Операционные системы.md",
     "ВУЗ/ЭКЗАМЕНЫ/Подготовка к экзаменам.md",
     "0. Начало.md",
