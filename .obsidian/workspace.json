@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miminet.md",
+                "file": "ВУЗ/Практика/Miminet.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,9 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ba697ae45cca44f",
+  "active": "b4b006e0db00d022",
   "lastOpenFiles": [
-    "Miminet.md",
+    "ВУЗ/Практика",
+    "ВУЗ/Untitled.md",
+    "ВУЗ/Практика/Miminet.md",
     "0. Начало.md",
     "ВУЗ/Лекции/Параллельки/1-ая Лекция Параллельки.md",
     "ВУЗ/Предметы.md",
