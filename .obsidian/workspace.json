@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f66fc45cf383d0",
+        "id": "e3d2f4b175a3041e",
         "type": "tabs",
         "children": [
           {
-            "id": "4400a3fd68fe1cf1",
+            "id": "9babbc0b32c72547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Лекции/Параллельки/1-ая Лекция Параллельки.md",
+                "file": "0. Начало.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-ая Лекция Параллельки"
+              "title": "0. Начало"
             }
           },
           {
-            "id": "d51b0702a34f52b7",
+            "id": "1ba697ae45cca44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Предметы.md",
+                "file": "Miminet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предметы"
+              "title": "Miminet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4400a3fd68fe1cf1",
+  "active": "1ba697ae45cca44f",
   "lastOpenFiles": [
+    "Miminet.md",
     "0. Начало.md",
-    "ВУЗ/Предметы.md",
     "ВУЗ/Лекции/Параллельки/1-ая Лекция Параллельки.md",
+    "ВУЗ/Предметы.md",
+    "conflict-files-obsidian-git.md",
     "ВУЗ/Предметы/Параллельки.md",
     "ВУЗ/Предметы",
     "ВУЗ/ЭКЗАМЕНЫ/Билеты/ОС",
