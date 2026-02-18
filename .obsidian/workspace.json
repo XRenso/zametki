@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c68d7dc879434eb1",
+        "id": "486eb6cb0798c113",
         "type": "tabs",
         "children": [
           {
-            "id": "82fa48a6a0a8fd06",
+            "id": "0b03873d34e7a946",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "0. Начало.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "0. Начало"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Начало.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Начало"
+              "title": "Outline"
             }
           },
           {
@@ -194,14 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82fa48a6a0a8fd06",
+  "active": "0b03873d34e7a946",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "0. Начало.md",
-    "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
-    "Текстовый документ.txt",
     "ВУЗ/ЭКЗАМЕНЫ/ОС/Операционные системы.md",
     "ВУЗ/ЭКЗАМЕНЫ/Подготовка к экзаменам.md",
+    "ВУЗ/ЭКЗАМЕНЫ/ОС/Описать шаги загрузки ОС.md",
+    "0. Начало.md",
+    "conflict-files-obsidian-git.md",
+    "Текстовый документ.txt",
     "ВУЗ/ЭКЗАМЕНЫ/ОС/Структура ОС, цели и задачи..md",
     "ВУЗ/ЭКЗАМЕНЫ/ОС",
     "ВУЗ/ЭКЗАМЕНЫ",
