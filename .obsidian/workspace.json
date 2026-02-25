@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Практика/Miminet.md",
+                "file": "ВУЗ/ЭКЗАМЕНЫ/Билеты/ОС/Понятие текстовой консоли. Эмулятор терминала, командная оболочка..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miminet"
+              "title": "Понятие текстовой консоли. Эмулятор терминала, командная оболочка."
             }
           }
         ],
@@ -209,15 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ba697ae45cca44f",
+  "active": "b4b006e0db00d022",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ВУЗ/Практика/Miminet.md",
+    "conflict-files-obsidian-git.md",
     "Работа/Курсы/DevOps Yadro/Шпора на фаст собес.md",
     "Работа/Курсы/DevOps Yadro",
     "Работа/Курсы",
     "Работа",
-    "Понятие текстовой консоли. Эмулятор терминала, командная оболочка..md",
+    "ВУЗ/ЭКЗАМЕНЫ/Билеты/ОС/Понятие текстовой консоли. Эмулятор терминала, командная оболочка..md",
     "ВУЗ/ЭКЗАМЕНЫ/Билеты/Параллелки/параллелки_2021.pdf",
     "ВУЗ/ЭКЗАМЕНЫ/Билеты/Параллелки",
     "ВУЗ/Литература/teoriya_i_praktika_parallel_nykh_vychisleniy.pdf",
