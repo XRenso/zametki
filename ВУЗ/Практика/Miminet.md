@@ -17,3 +17,19 @@
 - исправил проблему с дубликатами
 - исправил неправильные ответы в тестах `dhcp`
 - убрал `no-ping`, надо добавить логи на тесты
+
+[[dhpc lost pkgs log]]
+
+Actual:
+```bash
+host_1 -> server_1 | DHCP Discover
+host_1 -> server_1 | DHCP Request  
+host_1 -> server_1 | ICMP echo-reply
+```
+
+Missing:
+```bash
+server_1 -> host_1 | DHCP Offer
+server_1 -> host_1 | DHCP ACK
+server_1 -> host_1 | ICMP echo-request
+```
